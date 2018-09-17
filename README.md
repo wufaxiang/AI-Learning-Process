@@ -1,26 +1,19 @@
-> 记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助，不断更新整理
+> 记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助
 
 ## Foundation Studies
 
 - Machine Learning basic
-  - Online course: 
-    - [Andrew Ng -- Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
-  - Notes:
-    - [Machine Learning Course Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)（Chinese）
+  - Course: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
+  - Course Notes: [Chinese](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 - Deep Learning
-  - Online Course:
-    - [Andrew Ng -- deeplearning.ai](https://www.deeplearning.ai/)
-  - Notes:
-    - [Deep Learning Course Notes](https://github.com/fengdu78/deeplearning_ai_books)（Chinese）
-    - [Deep Learning Course Notes](https://github.com/mbadry1/DeepLearning.ai-Summary)（English）
-  - Book:
-    - [Deep Learning -- Ian Goodfellow](https://www.deeplearningbook.org/)
-    - [Deep Learning -- Chinese Version](https://github.com/exacity/deeplearningbook-chinese)
-- Python and Framework
-  - Python Corese: [Coursera -- Charles Severance, University of Michigan](https://www.coursera.org/learn/python/home/welcome)
-  - Framework 
+  - Course: [deeplearning.ai](https://www.deeplearning.ai/)
+  - Course Notes: [Chinese](https://github.com/fengdu78/deeplearning_ai_books), [English](https://github.com/mbadry1/DeepLearning.ai-Summary)
+  - Book: [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/), [Chinese Version](https://github.com/exacity/deeplearningbook-chinese)
+- Python 
+  - Course: [University of Michigan, by Charles Severance](https://www.coursera.org/learn/python/home/welcome)
+- Framework
     - [Numpy](http://www.numpy.org/)，[Pandas](https://pandas.pydata.org/)，[Sklearn](http://scikit-learn.org/stable/)
-    - [Pytorch](https://pytorch.org/)，[Pytorch Tutorials](https://pytorch.org/tutorials/)
+    - [Pytorch](https://pytorch.org/): [Pytorch Tutorials](https://pytorch.org/tutorials/)
 - Other Books From SaltTiger
   - [SaltTiger](https://salttiger.com/): An amazing website where can find many great programming books. 
   - [Python for Data Analysis, 2nd Edition](https://salttiger.com/python-for-data-analysis-2nd-edition/) : Learn Numpy and Pandas
@@ -28,8 +21,24 @@
   - [Deep Learning with PyTorch](https://salttiger.com/deep-learning-with-pytorch/): Learn Pytorch, but Pytorch Tutorials first.
   - [Machine Learning Algorithms](https://salttiger.com/machine-learning-algorithms/)
   - [Deep Learning for Computer Vision with Python](https://salttiger.com/deep-learning-for-computer-vision-with-python/)
+  - More ... Search by youself.
   
-## Auto ML
+  
+## Neural Architecture Search
+
+- [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377)
+  - Relative blog: [神经网络架构搜索（NAS）综述](https://www.jiqizhixin.com/articles/2018-08-31-4)
+- [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
+  - Lecture: [Quoc Le in in UC Berkeley](https://www.youtube.com/watch?v=XDtFXBYpl1w&index=22&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX&t=874s)
+  - Slide: [Neural Architecture Search with Reinforcement Learning](http://rll.berkeley.edu/deeprlcoursesp17/docs/quoc_barret.pdf)
+- [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)
+  - Implement: [Tensorflow](https://github.com/melodyguan/enas), [Pytorch](https://github.com/carpedm20/ENAS-pytorch)
+  - Course: [video](https://www.youtube.com/watch?v=fbCcJaSQPPA), [slide](https://www.slideshare.net/JinwonLee9/efficient-neural-architecture-search-via-parameter-sharing)
+  - Relative blog: [Jeff Dean等人提出ENAS：通过参数共享实现高效的神经架构搜索](https://www.jiqizhixin.com/articles/2018-02-14-3)
+- [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559)
+
+
+## Auto ML (#TODO)
 
 **Paper**
   - Auto ML Pipeline
