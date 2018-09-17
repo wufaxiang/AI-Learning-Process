@@ -1,5 +1,5 @@
 # NAS-Resouces
-The papers, ppt, video and all resources about Neural Architecture Search when learning 
+The papers, ppt, video and all resources about Neural Architecture Search while learning 
 
 ### Paper
 
