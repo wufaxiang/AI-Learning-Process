@@ -1,4 +1,4 @@
-> 记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助
+> 记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助，不断更新整理
 
 ## Foundation Studies
 
@@ -20,7 +20,7 @@
   - Python Corese: [Coursera -- Charles Severance, University of Michigan](https://www.coursera.org/learn/python/home/welcome)
   - Framework 
     - [Numpy](http://www.numpy.org/)，[Pandas](https://pandas.pydata.org/)，[Sklearn](http://scikit-learn.org/stable/)
-    - [Pytorch](https://pytorch.org/): [Pytorch Tutorials](https://pytorch.org/tutorials/)
+    - [Pytorch](https://pytorch.org/)，[Pytorch Tutorials](https://pytorch.org/tutorials/)
 - Other Books From SaltTiger
   - [SaltTiger](https://salttiger.com/): An amazing website where can find many great programming books. 
   - [Python for Data Analysis, 2nd Edition](https://salttiger.com/python-for-data-analysis-2nd-edition/) : Learn Numpy and Pandas
