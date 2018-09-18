@@ -6,7 +6,7 @@
   - Course: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
   - Course Notes: [Chinese](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 - Deep Learning
-  - Course: [deeplearning.ai](https://www.deeplearning.ai/)
+  - Course: [deeplearning.ai](https://www.deeplearning.ai/), [fast.ai](http://course.fast.ai/index.html)
   - Course Notes: [Chinese](https://github.com/fengdu78/deeplearning_ai_books), [English](https://github.com/mbadry1/DeepLearning.ai-Summary)
   - Book: [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/), [Chinese Version](https://github.com/exacity/deeplearningbook-chinese)
 - Python 
@@ -39,6 +39,14 @@
 
 
 ## Auto ML (#TODO)
+
+**Introduce**
+
+- Artical by Rachel Thomas in Fast.ai 
+  - [Part I: What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)
+  - [Part II: An Opinionated Introduction to AutoML and Neural Architecture Search
+](http://www.fast.ai/2018/07/16/auto-ml2/)
+  - [Google's AutoML: Cutting Through the Hype](http://www.fast.ai/2018/07/23/auto-ml-3/)
 
 **Paper**
   - Auto ML Pipeline
