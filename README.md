@@ -1,5 +1,5 @@
-> This is a repository where you can find things associated with the AutoML, especially NAS(neural architecture search) now. 
-
+> This is a repository where you can find things associated with the AutoML, especially NAS now. 
+>
 > 记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助，不断更新整理中。。。
 
 ## Foundation Studies
@@ -43,6 +43,7 @@
 - [Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/abs/1806.10282)
   - Implement: [keras](https://github.com/jhfjhfj1/autokeras)
   - Website: [autokeara](http://autokeras.com/)
+  - Relative blog: [AutoKeras: The Killer of Google’s AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
 
 ## Auto ML (#TODO)
 
