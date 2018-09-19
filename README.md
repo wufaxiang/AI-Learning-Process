@@ -1,4 +1,6 @@
-> 记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助，不断更新整理中。。。
+记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助，不断更新整理中。。。
+
+This is a repository where you can find things associated with the AutoML, especially NAS(neural architecture search) now. 
 
 ## Foundation Studies
 
@@ -38,6 +40,9 @@
 - [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559)
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
   - Implement: [pytorch](https://github.com/quark0/darts)
+- [Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/abs/1806.10282)
+  - Implement: [keras](https://github.com/jhfjhfj1/autokeras)
+  - Website: [autokeara](http://autokeras.com/)
 
 ## Auto ML (#TODO)
 
