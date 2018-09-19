@@ -32,11 +32,12 @@
   - Lecture: [Quoc Le in in UC Berkeley](https://www.youtube.com/watch?v=XDtFXBYpl1w&index=22&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX&t=874s)
   - Slide: [Neural Architecture Search with Reinforcement Learning](http://rll.berkeley.edu/deeprlcoursesp17/docs/quoc_barret.pdf)
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)
-  - Implement: [Tensorflow](https://github.com/melodyguan/enas), [Pytorch](https://github.com/carpedm20/ENAS-pytorch)
+  - Implement: [tensorflow](https://github.com/melodyguan/enas), [pytorch](https://github.com/carpedm20/ENAS-pytorch)
   - Course: [video](https://www.youtube.com/watch?v=fbCcJaSQPPA), [slide](https://www.slideshare.net/JinwonLee9/efficient-neural-architecture-search-via-parameter-sharing)
   - Relative blog: [Jeff Dean等人提出ENAS：通过参数共享实现高效的神经架构搜索](https://www.jiqizhixin.com/articles/2018-02-14-3)
 - [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559)
-
+- [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
+  - Implement: [pytorch](https://github.com/quark0/darts)
 
 ## Auto ML (#TODO)
 
