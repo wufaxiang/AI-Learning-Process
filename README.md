@@ -29,7 +29,7 @@
 ## Neural Architecture Search
 
 - [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377)
-  - Relative blog: [神经网络架构搜索（NAS）综述](https://www.jiqizhixin.com/articles/2018-08-31-4)
+  - Relative blog: [一篇 NAS 介绍](https://www.faxiang.site/blog/2018/09/21/%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8E%20NAS%20%E7%9A%84%E4%BB%8B%E7%BB%8D/)
 - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
   - Lecture: [Quoc Le in in UC Berkeley](https://www.youtube.com/watch?v=XDtFXBYpl1w&index=22&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX&t=874s)
   - Slide: [Neural Architecture Search with Reinforcement Learning](http://rll.berkeley.edu/deeprlcoursesp17/docs/quoc_barret.pdf)
