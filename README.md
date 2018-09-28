@@ -2,6 +2,10 @@
 >
 > 记录下这段时间入坑学习，看过的东西，一个是整理方便自己随时查看，也希望可以有些帮助，不断更新整理中。。。
 
+## Literature
+
+- [Literature on neural architecture search](http://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
+
 ## Foundation Studies
 
 - Machine Learning basic
